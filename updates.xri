@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+   <description>
+      <p>
+      This is the repository for PixInsight scripts by HiddenLight-Photography.com.
+    </p>
+   </description>
+   <platform os="all" arch="noarch" version="1.8.8:1.9.9">
+      <package fileName="HLPAstroScripts.zip" sha1="845c2fd1bae1e4e7943dba01bfb6c0de8d0183a4" type="script" releaseDate="20241114">
+         <title>
+        HLP Astro Scripts
+      </title>
+         <description>
+            <p>
+Scripts to make PixInsight processing easier
+</p>
+         </description>
+      </package>
+   </platform>
+</xri>
+<Signature developerId="Hidden Light Photography" timestamp="2025-02-09T19:41:39.695Z" encoding="Base64">65u1MqO9LUjTF6i2Hdh5PkHLbPvJKOzQAki62LF7xzCzUUl5bGL1dSWbu+fAQfA+EC6TUbJiOkivM/12q2avAg==</Signature>
