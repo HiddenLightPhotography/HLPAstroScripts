@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="HLPAstroScripts.zip" sha1="d83a47cf44120ef53f7dd3438ca6d8d590d5fee0" type="script" releaseDate="20241114">
+      <package fileName="HLPAstroScripts.zip" sha1="86ca6a797362b4f5b495392244eb42775310b345" type="script" releaseDate="20241114">
          <title>
         HLP Astro Scripts
       </title>
@@ -18,4 +18,4 @@ Scripts to make PixInsight processing easier
       </package>
    </platform>
 </xri>
-<Signature developerId="Hidden Light Photography" timestamp="2025-04-14T06:19:54.726Z" encoding="Base64">p4zvbsBq60StL4xox73XyiICdAWTtHig7nH/RHLNXVmG1sMd9UIUqYF0aJ9FkhD2qvqwSN4P9UDTwrmIGCK/BA==</Signature>
+<Signature developerId="Hidden Light Photography" timestamp="2026-06-21T00:11:53.648Z" encoding="Base64">PNV3uSFKHeydbFdziVERB8zLqRHfGt3Lx26FDo234iblVcqyNQLM2uFoXMkKUNfjR6wHB1bQt/EkvyiYDmH7Ag==</Signature>
